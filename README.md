@@ -1,6 +1,6 @@
 # Phenix private CocoaPodsSpecs
 
-To use it, please add to your `Podefile` head:
+To use it, please add to your `Podfile` head:
 ```
 source 'https://github.com/CocoaPods/Specs.git' # Default global repository
 source 'git@github.com:PhenixRTS/CocoaPodsSpecs.git' # Phenix repository
